@@ -1,0 +1,19 @@
+Fact Tables:
+
+Fact_Donation
+
+Fact_Request
+
+Dimension Tables:
+
+Dim_Donor
+
+Dim_Receiver
+
+Dim_BloodGroup
+
+Dim_Hospital
+
+Dim_City
+
+Dim_Date
